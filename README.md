@@ -9,7 +9,7 @@
 #### 下载地址
 
 * github:https://github.com/superBiuBiuMan/positionForwechat
-* gitee(如果访问不了请去github):
+* gitee(如果访问不了请去github):https://gitee.com/superBiuBiu/positionForwechat
 
 ### 使用
 
